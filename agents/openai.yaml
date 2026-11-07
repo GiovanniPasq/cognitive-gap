@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cognitive Gap"
+  short_description: "Understand and retain control of AI-written code"
+  default_prompt: "Use $cognitive-gap to help me implement or review this change, explaining the key decisions and verification evidence, with a diagram when useful."
